@@ -1,0 +1,10 @@
+spring:
+    application:
+        name: zero-banner-java
+    profiles:
+        active: dev
+    banner:
+        location: banner/ikun.txt
+#        location: banner/banner.txt
+server:
+    port: 8080

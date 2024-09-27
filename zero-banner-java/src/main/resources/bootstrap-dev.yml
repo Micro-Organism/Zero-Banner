@@ -1,0 +1,8 @@
+zero:
+    banner:
+        title: "zero-banner-java"
+        subtitle: "This is a subtitle"
+        footer: "This is a footer"
+        color: "blue"
+        font: "Consolas"
+        version: "1.0.0"
